@@ -8,6 +8,9 @@
 <input type="text" id="msg">
 <button id="btn">submit</button>
 <script>
+
+
+
     (function(){
         function createxmlHttp(){
             var xmlHttp = null;
